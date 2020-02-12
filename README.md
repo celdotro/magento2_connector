@@ -10,7 +10,7 @@
 
 
 ## Main Functionalities
-API Integrator
+API Integrator - Extend Magento2 API options
 
 ## Installation
 \* = in production please use the `--keep-generated` option
